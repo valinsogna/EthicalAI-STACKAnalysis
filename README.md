@@ -30,14 +30,14 @@ To devise an algorithm that effectively provides an in-depth analysis of student
 
 ## 2.Data Cleaning <a name="data-cleaning"></a>
 For the purposes of our analysis, only the finished attempts are considered.
-* [Link to Data Cleaning Script](<your_link_here>)
+* [Link to Data Cleaning Script](https://github.com/valinsogna/EthicalAI-STACKAnalysis/blob/main/update_data_clean.csv)
 
 ## 3. Python Scripts & Visualisation <a name="scripts-and-visualisation"></a>
 Each objective was approached with a dedicated Python script, followed by visualization to represent the analysis results.
 
 ### Writing Python Scripts
-1. **Script for Objective 1-2**: [Link to the Code](<your_link_here>)
-2. **Script for Objective 3-4**: [Link to the Code](<your_link_here>)
+1. **Script for Objective 1-2**: [Link to the Code](https://github.com/valinsogna/EthicalAI-STACKAnalysis/blob/main/data_clean.ipynb)
+2. **Script for Objective 3-4**: [Link to the Code](https://github.com/valinsogna/EthicalAI-STACKAnalysis/blob/main/CA-Kmeans_clustering.ipynb)
 
 ## 4. Machine Learning Analysis Summary <a name="ml-algorithms"></a>
 - **Contingency tables**: for each type of question, a contingency table of students'answer was build using as vocabulary the characters present in each response.
@@ -47,7 +47,7 @@ Each objective was approached with a dedicated Python script, followed by visual
 
 ## 5. Presentation <a name="presentation"></a>
 The findings, algorithm, and insights were compiled and documented for presentation to the Hackathon judges.
-* [Link to PPT Presentation](<your_ppt_link_here>)
+* [Link to PPT Presentation](https://github.com/valinsogna/EthicalAI-STACKAnalysis/blob/main/Learning- Team3.pptx)
 
 ### Future Improvements
 * After individual testing, all code blocks should be integrated into a single program.
