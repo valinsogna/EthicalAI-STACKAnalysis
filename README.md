@@ -11,6 +11,8 @@ The algorithms used were **CA for discovery lexical similarity between students'
 3. [Python Scripts & Visualisation](#scripts-and-visualisation)
 4. [ML algorithms](#ml-algorithms)
 5. [Presentation](#presentation)
+6. [Future Improvements](#future-improvements)
+7. [Team & Researchers](#team-researchers)
 
 ## 1. Team Introduction & Understanding the Problem <a name="team-introduction"></a>
 ### Review of the sample data
@@ -49,14 +51,14 @@ Each objective was approached with a dedicated Python script, followed by visual
 The findings, algorithm, and insights were compiled and documented for presentation to the Hackathon judges.
 * [Link to PPT Presentation](https://github.com/valinsogna/EthicalAI-STACKAnalysis/blob/main/Learning-%20Team3.pptx)
 
-### Future Improvements
+### 6. Future Improvements <a name="future-improvements"></a>
 * After individual testing, all code blocks should be integrated into a single program.
 * Increase num of dimensions for Correspondence Analysis (3D).
 * Add mathematical functions and symbol to the vocabulary for creating contingency table.
 * Choose effective num of clusters based on the better view of data from 3D CA.
 * **Create API to fetch this clustering data and work as an input to the STACK system**.
 
-## Team & Researchers
+## 7. Team & Researchers <a name="team-researchers"></a>
 Below are the contributors to this project:
 ### Team Members
 - **Umang Murawat**: [LinkedIn](www.linkedin.com/in/umangmurawat) team-leader
