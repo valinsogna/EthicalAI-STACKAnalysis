@@ -47,7 +47,7 @@ Each objective was approached with a dedicated Python script, followed by visual
 
 ## 5. Presentation <a name="presentation"></a>
 The findings, algorithm, and insights were compiled and documented for presentation to the Hackathon judges.
-* [Link to PPT Presentation](https://github.com/valinsogna/EthicalAI-STACKAnalysis/blob/main/Learning- Team3.pptx)
+* [Link to PPT Presentation](https://github.com/valinsogna/EthicalAI-STACKAnalysis/blob/main/Learning-%20Team3.pptx)
 
 ### Future Improvements
 * After individual testing, all code blocks should be integrated into a single program.
